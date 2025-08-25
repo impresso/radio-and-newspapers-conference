@@ -3,7 +3,7 @@ title: Conference registration
 title_long: 
 permalink: /registration
 layout: index
-order: 0
+order: 4
 image: 
 
 ---
