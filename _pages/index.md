@@ -8,14 +8,14 @@ image:
 
 ---
 
-# Title
+# Radio and Newspapers: What Intersections for Media History?
 <img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
 June 2026
 
 ### International conference
 [University of Lausanne](https://impresso.github.io/xxxx/practical)
 
-![Press and Radio Conference](images/xxxx.png)
+![Radio and Newspapers Conference](images/radio_and_newspapers_conference_2026.jpg)
 
 <hr>
 
