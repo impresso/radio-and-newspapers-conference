@@ -3,7 +3,7 @@ title: Practical informations
 title_long: 
 permalink: /practical
 layout: index
-order: 0
+order: 3
 image: 
 
 ---
