@@ -3,7 +3,7 @@ title: Homepage
 title_long: 
 permalink: /
 layout: index
-order: 0
+order: 1
 image: 
 
 ---
