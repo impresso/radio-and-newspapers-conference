@@ -20,7 +20,7 @@ June 2026
 <hr>
 
 ## Call for papers
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/xxxx/fr';">This call for papers is also available in French</button> <button class="button button1" onclick="window.location.href='files/xxxx.pdf';">PDF (English)</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/fr';">This call for papers is also available in French</button> <button class="button button1" onclick="window.location.href='files/xxxx.pdf';">PDF (English)</button>
 
 ### Motivation
 
@@ -28,8 +28,8 @@ June 2026
 
 ### Organisation committee
 **Raphaëlle Ruppen Coutaz**, Section d’histoire, Université de Lausanne<br>
-**Arthur Michelet**, Section d’histoire, Université de Lausanne<br>
 **Martin Grandjean**, Section d’histoire, Université de Lausanne<br>
+**Arthur Michelet**, Section d’histoire, Université de Lausanne<br>
 **Marten Düring**, C²DH, Université du Luxembourg<br>
 
 ### Scientific committee (in alphabetical order)
