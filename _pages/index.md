@@ -114,26 +114,26 @@ If not paid for by their home institution, travel and accommodation costs for pa
 Coming soon
 
 ### References
-* Arceneaux, Noah. ‘The Ecology of Wireless Newspapers: Publishing on Islands and Ships, 1899-1913’. Journalism & Mass Communication Quarterly 91, no. 3 (2014): 562–77. 
-* Arceneaux, Noah. ‘The Wireless Press and the Great War: An Intersection of Print and Electronic Media, 1914–1921’. Journal of Radio & Audio Media 26, no. 2 (2019): 318–35. 
-* Bolter, Jay David, and Richard Grusin. Remediation: Understanding New Media. MIT Press, 2000.
-* Cronqvist, Marie, and Christoph Hilgert. ‘Entangled Media Histories’. Media History 23, no. 1 (2017): 130–41.
-* Delporte, Christian, Claire Blandin, and François Robinet. Histoire de la presse en France. XXe-XXIe siècles. Armand Colin, 2016.
-* Drack, Markus T., ed. La radio et la télévision en Suisse. Hier+jetzt, 2000.
-* Good, Katie Day. ‘Listening to Pictures: Converging Media Histories and the Multimedia Newspaper’. Journalism Studies 18, no. 6 (2017): 691–709.
-* Hampton, Mark. Visions of the Press in Britain, 1850-1950. Urbana: University of Illinois Press, 2004.
-* Jeanneney, Jean-Noël. L’écho du siècle. Dictionnaire historique de la radio et de la télévision en France. Fayard, 2001.
-* Kaenel, Philippe. ‘Jack Rollan, homme de presse, homme-orchestre’. Revue Historique Vaudoise 129 (2021): 119–134.
-* Koss, Stephen. The Rise and Fall of the Political Press in Britain. Volume 2: The Twentieth Century. University of North Carolina Press, 1984.
-* Mäusli, Theo, and Andreas Steigmeier, eds. La radio et la télévision en Suisse. Hier+jetzt, 2006.
-* Mäusli, Theo, Andreas Steigmeier, and François Vallotton, eds. La radio et la télévision en Suisse. Hier+jetzt, 2012.
-* Müller, Kathrin Friederike, and Jutta Röser. ‘Convergence in Domestic Media Use? The Interplay of Old and New Media at Home’. In Media Convergence and Deconvergence, edited by Sergio Sparviero, Corinna Peil, and Gabriele Balbi. Springer International Publishing, 2017: 55–74.
-* Nicholas, Siân. ‘Media History or Media Histories? Re-Addressing the History of the Mass Media in Inter-War Britain’. Media History 18, nos 3–4 (2012): 379–94. 
-* Sandoz, Marie. De l’orbite au territoire helvétique. Une histoire des communications par satellite en Suisse des années 1960 à nos jours. Alphil Presses Universitaires Suisses, 2025. 
+* Arceneaux, Noah. ‘The Ecology of Wireless Newspapers: Publishing on Islands and Ships, 1899-1913’. _Journalism & Mass Communication Quarterly_ 91, no. 3 (2014): 562–77. 
+* Arceneaux, Noah. ‘The Wireless Press and the Great War: An Intersection of Print and Electronic Media, 1914–1921’. _Journal of Radio & Audio Media_ 26, no. 2 (2019): 318–35. 
+* Bolter, Jay David, and Richard Grusin. _Remediation: Understanding New Media_. MIT Press, 2000.
+* Cronqvist, Marie, and Christoph Hilgert. ‘Entangled Media Histories’. _Media History_ 23, no. 1 (2017): 130–41.
+* Delporte, Christian, Claire Blandin, and François Robinet. _Histoire de la presse en France. XXe-XXIe siècles_. Armand Colin, 2016.
+* Drack, Markus T., ed. _La radio et la télévision en Suisse_. Hier+jetzt, 2000.
+* Good, Katie Day. ‘Listening to Pictures: Converging Media Histories and the Multimedia Newspaper’. _Journalism Studies_ 18, no. 6 (2017): 691–709.
+* Hampton, Mark. _Visions of the Press in Britain, 1850-1950_. Urbana: University of Illinois Press, 2004.
+* Jeanneney, Jean-Noël. _L’écho du siècle. Dictionnaire historique de la radio et de la télévision en France_. Fayard, 2001.
+* Kaenel, Philippe. ‘Jack Rollan, homme de presse, homme-orchestre’. _Revue Historique Vaudoise_ 129 (2021): 119–134.
+* Koss, Stephen. _The Rise and Fall of the Political Press in Britain. Volume 2: The Twentieth Century_. University of North Carolina Press, 1984.
+* Mäusli, Theo, and Andreas Steigmeier, eds. _La radio et la télévision en Suisse_. Hier+jetzt, 2006.
+* Mäusli, Theo, Andreas Steigmeier, and François Vallotton, eds. _La radio et la télévision en Suisse_. Hier+jetzt, 2012.
+* Müller, Kathrin Friederike, and Jutta Röser. ‘Convergence in Domestic Media Use? The Interplay of Old and New Media at Home’. In _Media Convergence and Deconvergence_, edited by Sergio Sparviero, Corinna Peil, and Gabriele Balbi. Springer International Publishing, 2017: 55–74.
+* Nicholas, Siân. ‘Media History or Media Histories? Re-Addressing the History of the Mass Media in Inter-War Britain’. _Media History_ 18, nos 3–4 (2012): 379–94. 
+* Sandoz, Marie. _De l’orbite au territoire helvétique. Une histoire des communications par satellite en Suisse des années 1960 à nos jours_. Alphil Presses Universitaires Suisses, 2025. 
 * Sebastián Morillas, Ana. ‘Publicidad y modelos sociales. La transmisión de modelos sociales en los distintos medios de comunicación tradicionales (prensa, radio y televisión) 1939-1975’. PhD thesis, Universidad de Valladolid, 2005. 
-* Sparviero, Sergio, Corinna Peil, and Gabriele Balbi, eds. Media Convergence and Deconvergence. Palgrave Macmillan, 2017.
-* Stamm, Michael. ‘The Sound of Print: Newspapers and the Public Promotion of Early Radio Broadcasting in the United States’. In Sound in the Age of Mechanical Reproduction, edited by David Suisman and Susan Strasser. University of Pennsylvania Press, 2010: 221–241.
-* Valsangiacomo, Nelly. Dietro al microfono. Intellettuali italiani alla Radio svizzera (1930-1980). Edizioni Casagrande, 2015.
+* Sparviero, Sergio, Corinna Peil, and Gabriele Balbi, eds. _Media Convergence and Deconvergence_. Palgrave Macmillan, 2017.
+* Stamm, Michael. ‘The Sound of Print: Newspapers and the Public Promotion of Early Radio Broadcasting in the United States’. In _Sound in the Age of Mechanical Reproduction_, edited by David Suisman and Susan Strasser. University of Pennsylvania Press, 2010: 221–241.
+* Valsangiacomo, Nelly. _Dietro al microfono. Intellettuali italiani alla Radio svizzera (1930-1980)_. Edizioni Casagrande, 2015.
 * Willem, Guillaume. ‘« C’est une sorte de tirage que le tirage de la voix » ou l’écrivain interviewé : Au carrefour du discours littéraire et des médias de masse. Un enjeu générique (presse et radio françaises, 1891-1968)’. PhD thesis, KULeuven, 2020.
 
 
