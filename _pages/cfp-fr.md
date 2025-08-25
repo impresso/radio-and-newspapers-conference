@@ -3,7 +3,7 @@ title: Appel à communications (FR)
 title_long: 
 permalink: /fr
 layout: index
-order: 0
+order: 2
 image: 
 
 ---
