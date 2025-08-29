@@ -9,9 +9,10 @@ image:
 ---
 
 # **Radio and Newspapers**: What Intersections for Media History?
-<a href="https://impresso-project.ch/"><img src="images/impresso.png" alt="image" width="200" height="auto" align="right"></a><br><a href="https://www.unil.ch/hist/fr/home.html"><img src="images/unil.png" alt="image" width="100" height="auto" align="right"></a>
+<a href="https://impresso-project.ch/"><img src="images/impresso.png" alt="image" width="200" height="auto" align="right"></a>
 30 June - 1 July 2026
 
+<a href="https://www.unil.ch/hist/fr/home.html"><img src="images/unil.png" alt="image" width="100" height="auto" align="right"></a>
 ### International conference
 [University of Lausanne](https://impresso.github.io/radio-and-newspapers-conference/practical), Switzerland
 
@@ -93,7 +94,7 @@ If not paid for by their home institution, travel and accommodation costs for pa
 
 ### Submission Guidelines and Timeline 
 
-<button class="button button1" onclick="window.location.href='';">**Sciencesconf** | Submit your proposal here [forthcoming]</button>
+<button class="button button1" onclick="window.location.href='';">**Sciencesconf**  |  Submit your proposal here [forthcoming]</button>
 
 **Monday, 10 November 2025:** Proposals are submitted via Sciencesconf. Proposals (max. 750 words) will include a title, an abstract indicating clearly the results obtained/expected, and a bibliography (max. 5 references). Please attach a short bio-bibliographical note (max. 150 words). On Sciencesconf, please use the "Title and abstract" section to enter your full-text proposal: the abstract, references, and the bio-bibliographical note can be inserted in the same field. There is no need to provide a PDF.
 
