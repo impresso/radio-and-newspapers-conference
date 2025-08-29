@@ -9,7 +9,7 @@ image:
 ---
 
 # Radio and Newspapers: What Intersections for Media History?
-<img src="images/impresso.png" alt="image" width="300" height="auto" align="right">
+<img src="images/impresso.png" alt="image" width="200" height="auto" align="right"><img src="images/unil.png" alt="image" width="200" height="auto" align="right">
 30 June - 1 July 2026
 
 ### International conference
