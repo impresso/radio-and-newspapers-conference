@@ -93,6 +93,8 @@ If not paid for by their home institution, travel and accommodation costs for pa
 
 ### Submission Guidelines and Timeline 
 
+<button class="button button1" onclick="window.location.href='';">**Sciencesconf** | Submit your proposal here [forthcoming]</button>
+
 **Monday, 10 November 2025:** Proposals are submitted via Sciencesconf. Proposals (max. 750 words) will include a title, an abstract indicating clearly the results obtained/expected, and a bibliography (max. 5 references). Please attach a short bio-bibliographical note (max. 150 words). On Sciencesconf, please use the "Title and abstract" section to enter your full-text proposal: the abstract, references, and the bio-bibliographical note can be inserted in the same field. There is no need to provide a PDF.
 
 **December 2025:** Notification of acceptance. Selection process conducted with the help of the Scientific Committee.
