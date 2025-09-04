@@ -8,7 +8,7 @@ image:
 
 ---
 <a href="https://impresso-project.ch/"><img src="images/impresso-unil.png" alt="image" width="120" height="auto" align="right"></a>
-# **Radio** et **journaux** : quels croisements pour l’histoire des médias ?
+# **Radio** et **journaux** : quels croisements pour l’histoire des médias ?
 
 30 juin - 1e juillet 2026
 
