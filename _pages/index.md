@@ -114,21 +114,7 @@ If not paid for by their home institution, travel and accommodation costs for pa
 
 ### Scientific committee (in alphabetical order)
 
-**Alexander Badenoch** (Utrecht University) 
-**Gabriele Balbi** (Università della Svizzera italiana)
-**Kaspar Beelen** (University of London)
-**Alain Clavien** (Université de Fribourg)
-**Pierre Evequoz** (Université de Fribourg)
-**Andreas Fickers** (Université du Luxembourg)
-**Richard Legay** (Georg-August-Universität Göttingen)
-**Johan Malmstedt** (Umeå University)
-**Jamie Medhurst** (Aberystwyth University)
-**Siân Nicholas** (Aberystwyth University)
-**Marie Sandoz** (Université de Lausanne)
-**Michael Stamm** (Michigan State University)
-**François Vallotton** (Université de Lausanne)
-**Nelly Valsangiacomo** (Université de Lausanne) 
-**Hans-Ulrich Wagner** (Leibniz Institute for Media Research, Hamburg)
+**Alexander Badenoch** (Utrecht University), **Gabriele Balbi** (Università della Svizzera italiana), **Kaspar Beelen** (University of London), **Alain Clavien** (Université de Fribourg), **Pierre Evequoz** (Université de Fribourg), **Andreas Fickers** (Université du Luxembourg), **Richard Legay** (Georg-August-Universität Göttingen), **Johan Malmstedt** (Umeå University), **Jamie Medhurst** (Aberystwyth University), **Siân Nicholas** (Aberystwyth University), **Marie Sandoz** (Université de Lausanne), **Michael Stamm** (Michigan State University), **François Vallotton** (Université de Lausanne), **Nelly Valsangiacomo** (Université de Lausanne) , **Hans-Ulrich Wagner** (Leibniz Institute for Media Research, Hamburg)
 
 ### References
 * Arceneaux, Noah. ‘The Ecology of Wireless Newspapers: Publishing on Islands and Ships, 1899-1913’. _Journalism & Mass Communication Quarterly_ 91, no. 3 (2014): 562–77. 
