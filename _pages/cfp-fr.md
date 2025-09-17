@@ -114,6 +114,8 @@ S'ils ne peuvent être couverts par l'institution qui les emploie, les frais de 
 **Arthur Michelet**, Section d’histoire, Université de Lausanne<br>
 **Marten Düring**, C²DH, Université du Luxembourg<br>
 
+Contact: martin.grandjean[at]unil.ch
+
 ### Comité scientifique (par ordre alphabétique)
 
 **Alexander Badenoch** (Utrecht University), **Gabriele Balbi** (Università della Svizzera italiana), **Kaspar Beelen** (University of London), **Alain Clavien** (Université de Fribourg), **Pierre Evequoz** (Université de Fribourg), **Andreas Fickers** (Université du Luxembourg), **Richard Legay** (Georg-August-Universität Göttingen), **Johan Malmstedt** (Umeå University), **Jamie Medhurst** (Aberystwyth University), **Siân Nicholas** (Aberystwyth University), **Marie Sandoz** (Université de Lausanne), **Michael Stamm** (Michigan State University), **François Vallotton** (Université de Lausanne), **Nelly Valsangiacomo** (Université de Lausanne), **Hans-Ulrich Wagner** (Leibniz Institute for Media Research, Hamburg).
