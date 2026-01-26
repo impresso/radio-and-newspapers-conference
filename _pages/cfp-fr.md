@@ -104,7 +104,7 @@ S'ils ne peuvent être couverts par l'institution qui les emploie, les frais de 
 
 **Fin mai 2026 :** Pour les personnes intéressées à prendre part au projet de publication, envoi d’un papier d’environ 6’000 mots.
 
-**29-30 juin 2026 :** Colloque international sur le campus de l’Université de Lausanne, Suisse.
+**30 juin - 1er juillet 2026 :** Colloque international sur le campus de l’Université de Lausanne, Suisse.
 
 **Fin août 2026 :** Remise des papiers sélectionnés pour la publication.
 
