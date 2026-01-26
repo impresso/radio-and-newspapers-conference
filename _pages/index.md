@@ -102,7 +102,7 @@ If not paid for by their home institution, travel and accommodation costs for pa
 
 **End of May 2026:** For those interested in participating in the publication, submission of a paper (6,000 words).
 
-**29-30 June 2026:** International conference at the University of Lausanne (Switzerland).
+**30 June - 1 July 2026:** International conference at the University of Lausanne (Switzerland).
 
 **End of August 2026:** Submission of selected papers for publication.
 
