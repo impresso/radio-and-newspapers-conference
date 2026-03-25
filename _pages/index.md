@@ -16,7 +16,7 @@ image:
 ### International conference
 [University of Lausanne](https://impresso.github.io/radio-and-newspapers-conference/practical), Switzerland
 
-![Radio and Newspapers Conference](images/radio_and_newspapers_conference_2026.jpg)
+![Radio and Newspapers Conference](images/radio_and_newspapers_color2.png)
 <small>Journalists in the Radio-Canada/CBC newsroom in Montreal, 30 November 1944<br>(photo Conrad Poirier, Bibliothèque et Archives nationales du Québec, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg)).</small>
 
 
@@ -77,6 +77,13 @@ The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
 
 **18:15 Social event**
 
+# Wednesday 1 July 2026
+
+#### Keynote lecture
+**09:00** - Chair RUPPEN COUTAZ Raphaëlle (Université de Lausanne)
+* **Intermediality in Wartime: Towards an Integrated History of the British Press and the BBC in WW2** - NICHOLAS Siân (Aberystwyth University)
+
+**10:15 Coffee**
 
 
 
