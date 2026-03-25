@@ -25,8 +25,8 @@ image:
 ## Menu
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/registration';">Registration</button>
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/practical';">Practical informations</button>
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/en';">Call for papers in English</button>
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/fr';">Call for papers in French</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/en';">CFP English</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/fr';">AAC Français</button>
 
 ## Conference program
 
