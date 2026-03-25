@@ -56,7 +56,7 @@ Building on our ongoing reflections on a historical “transmedia” approach, t
 **12:00 Lunch break**
 
 #### Impresso session
-* **13:15 Analyzing the Press and Radio with Impresso Tools** | GRANDJEAN Martin, RUPPEN COUTAZ Raphaëlle and the Impresso team
+* **13:15 Analyzing the Press and Radio with Impresso Tools** - GRANDJEAN Martin, RUPPEN COUTAZ Raphaëlle and the Impresso team
 
 **14:45 Coffee**
 
@@ -69,7 +69,18 @@ The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
 
 **16:30 Short break**
 
-#### 
+#### News Across the Media: Measuring, Structuring, and Mediating
+**16:45 SESSION 4** - Chair BEELEN Kaspar (University of London)
+* **Comparing News in Print and Broadcast Media: An Exploratory Digital Analysis of Swiss Press and Radio** - GRANDJEAN Martin (Université de Lausanne)
+* **The Structures of Banking News on the Radio and in Newspapers in French-Speaking Switzerland, 1960–1989** - MICHELET Arthur (Université de Lausanne)
+* **Prima Pagina: Daily Press on the Radio** - SANGIOVANNI Andrea (Università degli Studi di Teramo)
+
+**18:15 Social event**
+
+
+
+
+
 
 
 
