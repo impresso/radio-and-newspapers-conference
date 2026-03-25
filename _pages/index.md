@@ -22,10 +22,13 @@ image:
 
 <hr>
 
-## Call for papers
-<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/fr';">This call for papers is also available in French</button>
+## Menu
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/registration';">Registration</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/practical';">Practical informations</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/en';">Call for papers in English</button>
+<button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/fr';">Call for papers in French</button>
 
-### Motivation
+## Conference program
 
 _Building on our ongoing reflections on a historical “transmedia” approach, this international conference—organized by the [Impresso project](https://impresso-project.ch/) and the History Department of the University of Lausanne—aims to move beyond the traditional understanding of press-radio relations. As the two main information media in the 20th century, their relationship has often been reduced in literature to one of simple institutional competition. This conference seeks to investigate the complexity of their relations. It aims to throw light on mutual influences over content and format, staff and practices circulation between the two media, as well as cross-representations and cross-uses. A central objective is to explore the novel research perspectives offered by the development of digital tools in the context of the digitization of press and radio archives._ 
 
