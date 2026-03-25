@@ -8,8 +8,6 @@ image:
 
 ---
 
-<div class="firstsection"></div>
-
 <a href="https://impresso-project.ch/"><img src="images/impresso-unil.png" alt="image" width="120" height="auto" align="right"></a>
 # **Radio** and **Newspapers**: What Intersections for Media History?
 
