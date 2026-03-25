@@ -36,10 +36,18 @@ Building on our ongoing reflections on a historical “transmedia” approach, t
 
 # Tuesday 30 June 2026
 
-#### INTRODUCTION
-09:00-09:30	**Welcome and Introduction by the Organizers** | RUPPEN COUTAZ Raphaëlle, GRANDJEAN Martin, MICHELET Arthur (Université de Lausanne) and DÜRING Marten 
+#### 09:00 Introduction
+**Welcome and Introduction by the Organizers** | RUPPEN COUTAZ Raphaëlle, GRANDJEAN Martin, MICHELET Arthur (Université de Lausanne) and DÜRING Marten 
 (University of Luxembourg)
 
-#### SESSION 1 
-Radio Used by the Press: Intermedial Infrastructures and Practices at the Beginning of the 20th Century 
+#### 09:30 Radio Used by the Press: Intermedial Infrastructures and Practices at the Beginning of the 20th Century
+**SESSION 1** | Chair SANDOZ Marie (Université de Lausanne)
+* **La presse atlantique comme objet intermédial** | BOLZ Lisa (Sorbonne Université), DE MAEYER Juliette (Université de Montréal), LANGONNÉ Joël (Université Catholique de l'Ouest), TRUDEL Dominique (Audencia Business School)
+* **"Best Comrades Ever to Have Met": How Editorial Broadcast Radio Services Catapulted Germany's Printed Press Into the Fast-News Age (1919–1943)** | ALTHAUS Marco (NLQ State Institute, Hannover/Hildesheim)
+
+#### 10:20 Coffee
+
+#### 10:45 Negotiating a New Medium: European Press Debating Radio in the Interwar Period
+
+
 
