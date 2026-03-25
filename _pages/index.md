@@ -8,7 +8,7 @@ image:
 
 ---
 
-<section class="firstsection">
+<div style="background-color:#0093B2; color:white; padding:20px;">
 
 <a href="https://impresso-project.ch/"><img src="images/impresso-unil.png" alt="image" width="120" height="auto" align="right"></a>
 # **Radio** and **Newspapers**: What Intersections for Media History?
@@ -21,7 +21,8 @@ image:
 ![Radio and Newspapers Conference](images/radio_and_newspapers_conference_2026.jpg)
 <small>Journalists in the Radio-Canada/CBC newsroom in Montreal, 30 November 1944<br>(photo Conrad Poirier, Bibliothèque et Archives nationales du Québec, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg)).</small>
 
-</section>
+</div>
+
 <hr>
 
 ## Call for papers
