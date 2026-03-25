@@ -36,18 +36,52 @@ Building on our ongoing reflections on a historical “transmedia” approach, t
 
 # Tuesday 30 June 2026
 
-#### 09:00 Introduction
-**Welcome and Introduction by the Organizers** | RUPPEN COUTAZ Raphaëlle, GRANDJEAN Martin, MICHELET Arthur (Université de Lausanne) and DÜRING Marten 
+#### Introduction
+* **09:00 Welcome and Introduction by the Organizers** - RUPPEN COUTAZ Raphaëlle, GRANDJEAN Martin, MICHELET Arthur (Université de Lausanne) and DÜRING Marten 
 (University of Luxembourg)
 
-#### 09:30 Radio Used by the Press: Intermedial Infrastructures and Practices at the Beginning of the 20th Century
-**SESSION 1** | Chair SANDOZ Marie (Université de Lausanne)
-* **La presse atlantique comme objet intermédial** | BOLZ Lisa (Sorbonne Université), DE MAEYER Juliette (Université de Montréal), LANGONNÉ Joël (Université Catholique de l'Ouest), TRUDEL Dominique (Audencia Business School)
-* **"Best Comrades Ever to Have Met": How Editorial Broadcast Radio Services Catapulted Germany's Printed Press Into the Fast-News Age (1919–1943)** | ALTHAUS Marco (NLQ State Institute, Hannover/Hildesheim)
+#### Radio Used by the Press: Intermedial Infrastructures and Practices at the Beginning of the 20th Century
+**09:30 SESSION 1** - Chair SANDOZ Marie (Université de Lausanne)
+* **La presse atlantique comme objet intermédial** - BOLZ Lisa (Sorbonne Université), DE MAEYER Juliette (Université de Montréal), LANGONNÉ Joël (Université Catholique de l'Ouest), TRUDEL Dominique (Audencia Business School)
+* **"Best Comrades Ever to Have Met": How Editorial Broadcast Radio Services Catapulted Germany's Printed Press Into the Fast-News Age (1919–1943)** - ALTHAUS Marco (NLQ State Institute, Hannover/Hildesheim)
 
-#### 10:20 Coffee
+**10:20 Coffee**
 
-#### 10:45 Negotiating a New Medium: European Press Debating Radio in the Interwar Period
+#### Negotiating a New Medium: European Press Debating Radio in the Interwar Period
+**10:45 SESSION 2** - Chair NICHOLAS Siân (Aberystwyth University)
+* **"A Grave Danger to Everything Special in Our Civilization": The Welsh-Language Press and Radio in Wales in the 1920s and 1930s** - MEDHURST Jamie (Aberystwyth University)
+* **Media Picturing Media: Implications of Media Change, Media Competition, and Complementarity in the Reception of the New Medium of Radio in the Contemporary Press** - WALCHER Johanna (University of Innsbruck)
+* **"Ignore the Cries of the Uneducated Masses." A Debate Concerning Radio Broadcast Music Programming in the Interwar Period of Czechoslovakia Appeared in Political Newspapers and Listener Magazines** - MACHEK Jakub (Metropolitan University Prague)
+
+**12:00 Lunch break**
+
+#### Impresso session
+* **13:15 Analyzing the Press and Radio with Impresso Tools** | GRANDJEAN Martin, RUPPEN COUTAZ Raphaëlle and the Impresso team
+
+**14:45 Coffee**
+
+#### Radio Magazines as Intermedial Devices
+**15:15 SESSION 3** - Chair WAGNER Hans-Ulrich (Leibniz-Institute for Media Research, Hans-Bredow-Institute)
+* **From Distribution to Participation: Audience Practices Between Radio Frankfurt and the Südwestdeutsche Rundfunkzeitung** - MAAS Frederike (ETH Zurich)
+* **Making Radio Music Visible: Lexical and Iconographic Mediation of Musical Listening in Spain's Ondas Magazine (1925-1935) - 
+The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
+* **Broadcasting Modernity: Radio, Print, and the Making of a Colonial Soundscape in French Cochinchina** - CAO Vy (University of Luxembourg)
+
+**16:30 Short break**
+
+#### 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
