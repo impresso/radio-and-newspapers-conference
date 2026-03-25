@@ -16,7 +16,7 @@ image:
 ### International conference
 [University of Lausanne](https://impresso.github.io/radio-and-newspapers-conference/practical), Switzerland
 
-![Radio and Newspapers Conference](images/radio_and_newspapers_color2.png)
+![Radio and Newspapers Conference](images/radio_and_newspapers_conference_2026.jpg)
 <small>Journalists in the Radio-Canada/CBC newsroom in Montreal, 30 November 1944<br>(photo Conrad Poirier, Bibliothèque et Archives nationales du Québec, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg)).</small>
 
 
@@ -84,6 +84,41 @@ The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
 * **Intermediality in Wartime: Towards an Integrated History of the British Press and the BBC in WW2** - NICHOLAS Siân (Aberystwyth University)
 
 **10:15 Coffee**
+
+#### Remediation and Circulation of Content, Formats, and Practices
+**10:30 SESSION 5** - Chair: EVÉQUOZ Pierre (Université de Fribourg)
+* **Stunde der Frau: From Page to Air – The Remediation of Women's Journalism in Interwar Austria** - DA LUZ Bianca (Universität Wien)
+* **Pour une histoire croisée des magazines féminins, de la presse écrite à la radio** - BECCARELLI Marine (Université Paris 1 Panthéon-Sorbonne)
+* **Rejuvenating the Children’s Sphere: Peregrinations Across Children’s Media in Bengal, 1939–1955** - SEN Hia (Presidency University, India)
+* **Entanglements Between Commercial Radio Stations and Magazines in the Long Sixties** - LEGAY Richard (University of Göttingen, Arnold-Bergstraesser-Institute Freiburg)
+
+**12:10 Lunch break**
+
+#### Radio and Newspapers as Intertwined Systems: Cross-Mediatization and Propaganda
+**13:30 SESSION 6** - Chair: DÜRING Marten (University of Luxembourg)
+* **Media Consumption in Hungarian Villages During the Socialist Era** - ISPÁN ÁGOTA Lídia (Institute of Ethnology, ELTE Research Centre for the Humanities)
+* **Radio Free Europe and the Socialist Press: A Paradoxical Interaction** - MACREA-TOMA Ioana (Central European University)
+
+**14:20 Coffee**
+
+#### Transmedia Careers and Professional Reconfigurations
+**14:45 SESSION 7** - Chair: GRAY Roxane (Université de Lausanne)
+* **Itinéraire d'une figure médiatique totale : Le critique musical Émile Vuillermoz, de la presse à la radio... à la presse** - LEDUC Marie-Pier (Université de Lausanne)
+* **From the Newspaper to the Radio Age: American Foreign Correspondents, Nazi Germany, and the Cross-Media Transformation of Political Journalism** - DOMEIER Norman (Charles University Prague)
+* **The Magazine Plans of Public Service Broadcasters  and the Audiovisual Plans of Publishers: Intersections of Radio and Press in Post-War Germany** - WAGNER Hans-Ulrich (Leibniz-Institute for Media Research, Hans-Bredow-Institute)
+* **"Pourquoi les journalistes de la radio et la télévision suisse ne seraient-ils pas pleinement nos 'confrères' ?" (1943-1960)** - EVÉQUOZ Pierre (Université de Fribourg)
+
+**16:25 Short break**
+
+#### Convergences in the Digital Age
+**16:45 SESSION 8** - Chair: MICHELET Arthur (Université de Lausanne)
+* **L'adaptation des sujets radio pour la diffusion en ligne : chaînes de production et enjeux linguistiques** - MERMINOD Gilles, MÖSCHLER Lena, BORNOZ Tristan (Zurich University of Applied Sciences, Université de Lausanne)
+* **Quand la presse quotidienne investit le son : narration, innovation et hybridation médiatiques dans les podcasts d'actualités en France. Étude comparée entre Le Monde, Les Échos et Le Parisien** - DI SCIULLO Flore (Université Paris-Panthéon-Assas)
+
+#### Conclusion
+**17:35 Conclusion of the conference** - RUPPEN COUTAZ Raphaëlle, GRANDJEAN Martin, MICHELET Arthur (Université de Lausanne) and DÜRING Marten (University of Luxembourg)
+
+
 
 
 
