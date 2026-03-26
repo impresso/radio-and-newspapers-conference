@@ -8,7 +8,7 @@ image:
 
 ---
 
-<a href="https://impresso-project.ch/"><img src="images/impresso-unil.png" alt="image" width="120" height="auto" align="right"></a>
+<a href="https://impresso-project.ch/"><img src="images/impresso-unil-bnw.png" alt="image" width="120" height="auto" align="right"></a>
 # **Radio** and **Newspapers**: What Intersections for Media History?
 
 30 June - 1 July 2026
@@ -22,7 +22,7 @@ image:
 
 <hr>
 
-## Menu
+## About
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/registration';">Registration</button>
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/practical';">Practical informations</button>
 <button class="button button1" onclick="window.location.href='https://impresso.github.io/radio-and-newspapers-conference/en';">CFP English</button>
