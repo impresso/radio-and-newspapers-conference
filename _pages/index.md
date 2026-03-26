@@ -16,7 +16,7 @@ image:
 ### International conference
 [University of Lausanne](https://impresso.github.io/radio-and-newspapers-conference/practical), Switzerland
 
-![Radio and Newspapers Conference](images/radio_and_newspapers_conference_2026.jpg)
+![Radio and Newspapers Conference](images/radio_and_newspapers_color.png)
 <small>Journalists in the Radio-Canada/CBC newsroom in Montreal, 30 November 1944<br>(photo Conrad Poirier, Bibliothèque et Archives nationales du Québec, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CBC_journalists_in_Montreal.jpg)).</small>
 
 
