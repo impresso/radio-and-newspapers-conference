@@ -13,7 +13,7 @@ image:
 ## About the conference
 
 ### Registration
-The conference is free of charge, participants will be invited to [register in spring 2026](https://impresso.github.io/radio-and-newspapers-conference/registration).
+The conference is free of charge, but you need to [register using this form](https://impresso.github.io/radio-and-newspapers-conference/registration).
 
 ### Venue
 The conference takes place in the Nucleo room, on the ground floor of the Vortex building (University of Lausanne, Switzerland). The nearest metro stop is “UNIL-Sorge” on the M1 line (5-minute walk).
@@ -25,14 +25,14 @@ Coffee breaks will be provided by the conference. Lunch is covered for speakers,
 
 ### Online participation
 
-The conference is an on-site event, but the sessions will be streamed on Zoom. You need to [register for the conference](https://impresso.github.io/radio-and-newspapers-conference/registration) to receive the invitation link a few days before the event. 
+The conference is an on-site event, but the sessions will be streamed on Teams. You need to [register for the conference](https://impresso.github.io/radio-and-newspapers-conference/registration) to receive the invitation link a few days before the event. 
 
 <hr>
 
 ## About Lausanne
 
 ### Transportation
-The University of Lausanne campus is well served by the M1 metro line. The journey takes about 12 minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop) and costs CHF 3.70 (one-way full fare, valid on all transport for 1 hour). Note that if you booked a room in a hotel in Lausanne, you're entitled to free travel on our public transport system! When you arrive at your hotel, don't forget to ask for your ["Lausanne transport card"](https://www.lausanne-tourisme.ch/en/lausanne-transport-card-and-more/). For participants staying at the Hotel Agora, the total journey with the M1 (2 stops) and M2 (8 stops) metro lines takes around 30 minutes.
+The University of Lausanne campus is well served by the M1 metro line. The journey takes about 12 minutes from the city center (Lausanne-Flon stop) to the university (UNIL-Chamberonne stop) and costs CHF 3.70 (one-way full fare, valid on all transport for 1 hour). Note that if you booked a room in a hotel in Lausanne, you're entitled to free travel on our public transport system! When you arrive at your hotel, don't forget to ask for your ["Lausanne transport card"](https://www.lausanne-tourisme.ch/en/lausanne-transport-card-and-more/). For participants staying at the Hotel Alpha Palmiers, the total journey from the Lausanne main train station with the M1 (1 stop) and M2 (8 stops) metro lines takes around 30 minutes.
 
 Lausanne is well integrated into the rail network, with excellent TGV connections from Paris in the West, EuroCity from Milan in the East, and ICE from the North, via Basel or Zurich. The nearest international airport is in Geneva, a 45min-1h train ride from Lausanne. 
 
