@@ -16,7 +16,7 @@ image:
 The conference is free of charge, but you need to [register using this form](https://impresso.github.io/radio-and-newspapers-conference/registration).
 
 ### Venue
-The conference takes place in the Nucleo room, on the ground floor of the Vortex building (University of Lausanne, Switzerland). The nearest metro stop is “UNIL-Sorge” on the M1 line (5-minute walk).
+The conference takes place in the Nucleo room, on the ground floor of the Vortex building (University of Lausanne, Switzerland). The nearest metro stop is “UNIL-Sorge” on the M1 line (5-minute walk). [Google Maps link](https://maps.app.goo.gl/Pbw3aEfW5JMbqnWr9).
 
 ![Campus map](https://raw.githubusercontent.com/impresso/radio-and-newspapers-conference/refs/heads/main/images/location_plan.png)
 
