@@ -18,4 +18,4 @@ Registration for the in-person conference is open until **June 15**. Registratio
 
 Please complete the registration form below ([or click here to fill the form directly, if not displayed correctly](https://docs.google.com/forms/d/e/1FAIpQLSfk8Jp4KR1K0bL9c8_ubjQyelyarJ9nTHtRcbayCBuCbOF4Wg/viewform?usp=sharing&ouid=110753961281599045454)):
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk8Jp4KR1K0bL9c8_ubjQyelyarJ9nTHtRcbayCBuCbOF4Wg//viewform?embedded=true" width="700" height="1350" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfk8Jp4KR1K0bL9c8_ubjQyelyarJ9nTHtRcbayCBuCbOF4Wg/viewform?embedded=true" width="700" height="1350" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
