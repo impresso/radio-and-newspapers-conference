@@ -81,9 +81,13 @@ The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
 
 #### Keynote lecture
 **09:00** - Chair RUPPEN COUTAZ Raphaëlle (Université de Lausanne)
+
 <div class="paragraphe-fond">
+  
 * **Intermediality in Wartime: Towards an Integrated History of the British Press and the BBC in WW2** - NICHOLAS Siân (Aberystwyth University)
+
 </div>
+
 **10:15 Coffee**
 
 #### Remediation and Circulation of Content, Formats, and Practices
