@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* === Tes personnalisations en dessous === */
+
+.paragraphe-fond {
+  background-color: #0093B2;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+}
