@@ -97,7 +97,7 @@ The LexiMus Project** - PALACIOS NIETO María (Universidad de Salamanca)
 
 #### Radio and Newspapers as Intertwined Systems: Cross-Mediatization and Propaganda
 **13:30 SESSION 6** - Chair: DÜRING Marten (University of Luxembourg)
-* **Media Consumption in Hungarian Villages During the Socialist Era** - ISPÁN ÁGOTA Lídia (Institute of Ethnology, ELTE Research Centre for the Humanities)
+* **Media Consumption in Hungarian Villages During the Socialist Era** - ISPÁN Ágota Lídia (Institute of Ethnology, ELTE Research Centre for the Humanities)
 * **Radio Free Europe and the Socialist Press: A Paradoxical Interaction** - MACREA-TOMA Ioana (Central European University)
 
 **14:20 Coffee**
