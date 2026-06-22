@@ -8,7 +8,7 @@ image:
 
 ---
 
-# Practical informations
+# Practical information
 
 ## About the conference
 
@@ -21,7 +21,7 @@ The conference takes place in the Nucleo room, on the ground floor of the Vortex
 ![Campus map](https://raw.githubusercontent.com/impresso/radio-and-newspapers-conference/refs/heads/main/images/location_plan.png)
 
 ### Meals
-Coffee breaks will be provided by the conference. Lunch is covered for speakers, other participants are welcome to eat with the group.
+Coffee breaks will be provided by the conference. Lunch is covered for speakers, other participants are welcome to eat with the group at their own expense.
 
 ### Online participation
 
