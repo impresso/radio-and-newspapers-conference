@@ -35,6 +35,8 @@ image:
 
 Building on our ongoing reflections on a historical “transmedia” approach, this international conference—organized by the [Impresso project](https://impresso-project.ch/) and the History Department of the University of Lausanne—aims to move beyond the traditional understanding of press-radio relations. As the two main information media in the 20th century, their relationship has often been reduced in literature to one of simple institutional competition. This conference seeks to investigate the complexity of their relations. It aims to throw light on mutual influences over content and format, staff and practices circulation between the two media, as well as cross-representations and cross-uses. A central objective is to explore the novel research perspectives offered by the development of digital tools in the context of the digitization of press and radio archives.
 
+<button class="button button1" onclick="window.location.href='https://doi.org/10.5281/zenodo.20813962';">Download the _Book of Abstracts_</button>
+
 # Tuesday 30 June 2026
 
 #### Introduction
